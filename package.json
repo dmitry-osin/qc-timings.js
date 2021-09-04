@@ -1,0 +1,10 @@
+{
+  "name": "qc-timings",
+  "version": "0.1",
+  "description": "Electron app that computing next mega's or red armor's time",
+  "main": "main.js",
+  "repository": "https://github.com/dmitry-osin/qc-timings.js.git",
+  "author": "Dmitry Osin <d@osin.pro>",
+  "license": "MIT",
+  "private": null
+}
